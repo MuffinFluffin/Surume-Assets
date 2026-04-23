@@ -1,0 +1,58 @@
+{
+  "tracks": [
+    {
+      "slug": "butterflow-menu-music-theme",
+      "title": "Butterflow Menu Music Theme",
+      "artist": "Nomagician",
+      "filename": "butterflow-menu-music-theme.mp3"
+    },
+    {
+      "slug": "video-game-menu-music",
+      "title": "Video Game Menu Music",
+      "artist": "magmadiverrr",
+      "filename": "video-game-menu-music.mp3"
+    },
+    {
+      "slug": "piano-loops-188-octave-down",
+      "title": "Piano Loops 188 Octave Down",
+      "artist": "josefpres",
+      "filename": "piano-loops-188-octave-down.wav"
+    },
+    {
+      "slug": "piano-loops-198-octave-down",
+      "title": "Piano Loops 198 Octave Down",
+      "artist": "josefpres",
+      "filename": "piano-loops-198-octave-down.wav"
+    },
+    {
+      "slug": "piano-loops-201-octave-short",
+      "title": "Piano Loops 201 Octave Short",
+      "artist": "josefpres",
+      "filename": "piano-loops-201-octave-short.wav"
+    },
+    {
+      "slug": "piano-loops-207-efect-2-octave",
+      "title": "Piano Loops 207 Efect 2 Octave",
+      "artist": "josefpres",
+      "filename": "piano-loops-207-efect-2-octave.wav"
+    },
+    {
+      "slug": "sergios-magic-dustbin",
+      "title": "Sergio's Magic Dustbin",
+      "artist": "Kevin MacLeod",
+      "filename": "sergios-magic-dustbin.mp3"
+    },
+    {
+      "slug": "mesmerizing-galaxy",
+      "title": "Mesmerizing Galaxy",
+      "artist": "Kevin MacLeod",
+      "filename": "mesmerizing-galaxy.mp3"
+    },
+    {
+      "slug": "adventures-in-adventureland",
+      "title": "Adventures in Adventureland",
+      "artist": "Kevin MacLeod",
+      "filename": "adventures-in-adventureland.mp3"
+    }
+  ]
+}
