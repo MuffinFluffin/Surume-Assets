@@ -74,3 +74,18 @@ The app fetches this file on every launch to discover new tracks without requiri
 ## License
 
 Audio files retain their original licenses (CC BY 4.0, CC0 1.0, etc.) as noted above. This repository structure and tooling is GPL-3.0+.
+
+## Neural (Core ML scalers — Sakura iOS)
+
+Optional Real‑ESRGAN RRDB bundles for on-device download. Files:
+
+- `neural/Sakura-RealSR_x2_tile128.zip`
+- `neural/Sakura-RealSR_x2_tile256.zip`
+- `neural/Sakura-RealSR_x4_tile128.zip`
+
+CDN (same raw host as music manifests):
+
+`https://raw.githubusercontent.com/MuffinFluffin/Shared-Assets/main/neural/<filename>.zip`
+
+Weights lineage: xinntao/Real‑ESRGAN (BSD‑3‑Clause).
+
